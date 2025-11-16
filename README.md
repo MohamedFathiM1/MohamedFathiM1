@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I'm MOHAMED<br><br>A Native & Wordpress developer<br>🚀-What I Do<br>- 🧩 Native & Wordpress development (WordPress, WooCommerce, Python, Laravel)<br>- 🛠 Building automations, integrations & custom plugins<br>- 🏢 Scaling businesses with technology-driven solutions<br>- 📈 Turning ideas into real products that generate revenue<br><br>🎯 My Values<br>- Clean code  <br>- Practical solutions  <br>- Speed + efficiency  <br>- Customer success first and more........<br><br>📬 Let’s Connect<br>Feel free to reach out for collaboration, custom development, or business ideas.<br>
 
-<!--
-**MohamedFathiM1/MohamedFathiM1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100009327117540) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mfathi1_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://l.facebook.com/l.php?u=https%3A%2F%2Flinkedin.com%2Fin%2FFathisWorldOfficial%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExdnlsckZMdElqd3IxT1dueHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIIY2FsbHNpdGUBMgABHg_8Xb-g1Nm8Uj-g9xNIVRo7xqy-k288Eft8dMs3papGONgOkdR38n5S3FtL_aem_pdopFqR1n1G71g4xja-kXw&h=AT1Eu0jQnPV8Beg9CLM_3gHuShmw6is60YdlfMS5nABHSKjc15fL77fJt_svx57lFY9WF4226wIYcegtt-8zxTCzUYT8XAGeHuse49QlAcxCFEHHAFQKX95Tvdf1CrEzJvFl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.fathi5724) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MohamedFathiM1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MohamedFathiM1&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFathiM1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MohamedFathiM1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
